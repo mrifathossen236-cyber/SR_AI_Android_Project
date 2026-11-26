@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SR AI</string>
+    <string name="accessibility_description">SR AI can insert text only when you press the Type button.</string>
+</resources>
